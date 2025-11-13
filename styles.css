@@ -9,8 +9,8 @@
 
 body{
   font-family: "Yale", sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
 }
 input{
-  padding: 3px;
+  padding: 0.2rem;
 }
