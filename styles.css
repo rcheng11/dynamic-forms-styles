@@ -1,1 +1,16 @@
+@font-face {
+    font-family: 'Yale';
+    src:
+        url('Yale2024-BoldItalic.otf') 
+        format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
+body{
+  font-family: "Yale", sans-serif;
+  font-size: 16px;
+}
+input{
+  padding: 3px;
+}
