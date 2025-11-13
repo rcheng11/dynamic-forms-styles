@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Yale';
     src:
-        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-BoldItalic.otf') 
+        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-Roman.otf') 
         format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
-body{
+label, input{
   font-family: "Yale", sans-serif !important;
-  font-size: 1rem;
+  font-size: 1rem !important;
 }
 input{
   padding: 0.2rem;
