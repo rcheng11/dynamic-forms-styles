@@ -10,7 +10,7 @@
 @font-face { /* Bold */
     font-family: 'Yale';
     src:
-        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-Roman.otf') 
+        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-Bold.otf') 
         format('opentype');
     font-weight: bold;
     font-style: normal;
@@ -18,21 +18,54 @@
 @font-face { /* Italic */
     font-family: 'Mallory Compact';
     src:
-        url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Light.ttf') 
+        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-Italic.otf') 
         format('opentype');
     font-weight: normal;
     font-style: italic;
 }
-@font-face { /* Italic Bold */
+@font-face { /* Bold Italic */
+    font-family: 'Mallory Compact';
+    src:
+        url('https://rcheng11.github.io/dynamic-forms-styles/YaleNew-BoldItalic.otf') 
+        format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+/* Yale Sites Sans-Serif Font ------------------------------------------ */
+@font-face { 
     font-family: 'Mallory Compact';
     src:
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Light.ttf') 
+        format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face { /* Bold */
+    font-family: 'Yale';
+    src:
+        url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Medium.ttf') 
+        format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face { /* Italic */
+    font-family: 'Mallory Compact';
+    src:
+        url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-LightItalic.ttf') 
+        format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face { /* Bold Italic */
+    font-family: 'Mallory Compact';
+    src:
+        url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-MediumItalic.ttf') 
         format('opentype');
     font-weight: bold;
     font-style: italic;
 }
 
-/* Standard Styles */
+/* Standard Styles -----------------------------------------------*/
 label, input, table, td, th{
   font-family: "Mallory Compact", sans-serif !important;
   font-size: 1rem !important;
