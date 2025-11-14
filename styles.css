@@ -68,7 +68,7 @@
 /* Standard Styles -----------------------------------------------*/
 body{
 }
-label, input, table, td, th, textarea, .inputcontainer{
+label, input, table, td, th, textarea, .inputcontainer, button{
   font-family: "Mallory Compact", sans-serif !important;
   font-size: 1rem !important;
   font-weight: normal !important;
