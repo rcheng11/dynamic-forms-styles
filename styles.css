@@ -84,7 +84,7 @@ input{
 }
 .alert-text{
     font-weight: bold;
-    font-style: italic;
+    font-style: normal;
     color: #286dc0;
 }
 /* Style-first classes ---------------------------------------- */
