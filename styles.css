@@ -15,14 +15,6 @@
     font-weight: bold;
     font-style: normal;
 }
-@font-face { /* Bold */
-    font-family: 'Yale';
-    src:
-        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-Bold.otf') 
-        format('opentype');
-    font-weight: bolder;
-    font-style: normal;
-}
 @font-face { /* Italic */
     font-family: 'Yale';
     src:
@@ -54,14 +46,6 @@
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Medium.ttf') 
         format('truetype');
     font-weight: bold;
-    font-style: normal;
-}
-@font-face { /* Bold */
-    font-family: 'Mallory Compact';
-    src:
-        url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Medium.ttf') 
-        format('truetype');
-    font-weight: bolder;
     font-style: normal;
 }
 @font-face { /* Italic */
