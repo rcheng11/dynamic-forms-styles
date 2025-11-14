@@ -85,12 +85,11 @@
 label, input, table, td, th, textarea, .inputcontainer{
   font-family: "Mallory Compact", sans-serif !important;
   font-size: 1rem !important;
+  font-weight: normal !important;
+    font-style: normal !important;
 }
 input{
   padding: 0.2rem;
-}
-td{
-    padding: 0.3rem 0;
 }
 /* Style-first classes ---------------------------------------- */
 .font-yale-sans-serif{
