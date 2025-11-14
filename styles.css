@@ -74,7 +74,7 @@ label, input, table, td, th, textarea, .inputcontainer, button{
   font-weight: normal !important;
     font-style: normal !important;
 }
-input{
+input, text-area, label{
   padding: 0.35rem;
 }
 /* Special Text ----------------------------------------------- */
