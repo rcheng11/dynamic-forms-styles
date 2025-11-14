@@ -75,7 +75,7 @@ label, input, table, td, th, textarea, .inputcontainer, button{
     font-style: normal !important;
 }
 input{
-  padding: 0.2rem;
+  padding: 0.35rem;
 }
 /* Special Text ----------------------------------------------- */
 .alert-text::before {
