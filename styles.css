@@ -76,6 +76,9 @@ input{
   padding: 0.2rem;
 }
 /* Style-first classes ---------------------------------------- */
+.color-yale-dark-blue{
+    color: #00356b;
+}
 .font-yale-sans-serif{
     font-family: "Mallory Compact", sans-serif !important;
 }
