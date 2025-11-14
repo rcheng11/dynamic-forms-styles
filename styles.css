@@ -77,6 +77,16 @@ label, input, table, td, th, textarea, .inputcontainer{
 input{
   padding: 0.2rem;
 }
+/* Special Text ----------------------------------------------- */
+.alert-text::before {
+  content: "\1F6C8";
+  margin-right: 5px;
+}
+.alert-text{
+    font-weight: bold;
+    font-style: italic;
+    color: #286dc0;
+}
 /* Style-first classes ---------------------------------------- */
 .color-yale-dark-blue{
     color: #00356b;
