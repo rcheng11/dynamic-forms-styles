@@ -44,23 +44,23 @@
     font-family: 'Mallory Compact';
     src:
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Light.ttf') 
-        format('opentype');
+        format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face { /* Bold */
-    font-family: 'Yale';
+    font-family: 'Mallory Compact';
     src:
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Medium.ttf') 
-        format('opentype');
+        format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face { /* Bold */
-    font-family: 'Yale';
+    font-family: 'Mallory Compact';
     src:
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Medium.ttf') 
-        format('opentype');
+        format('truetype');
     font-weight: bolder;
     font-style: normal;
 }
@@ -68,7 +68,7 @@
     font-family: 'Mallory Compact';
     src:
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-LightItalic.ttf') 
-        format('opentype');
+        format('truetype');
     font-weight: normal;
     font-style: italic;
 }
@@ -76,7 +76,7 @@
     font-family: 'Mallory Compact';
     src:
         url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-MediumItalic.ttf') 
-        format('opentype');
+        format('truetype');
     font-weight: bold;
     font-style: italic;
 }
