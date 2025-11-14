@@ -15,6 +15,14 @@
     font-weight: bold;
     font-style: normal;
 }
+@font-face { /* Bold */
+    font-family: 'Yale';
+    src:
+        url('https://rcheng11.github.io/dynamic-forms-styles/Yale2024-Bold.otf') 
+        format('opentype');
+    font-weight: bolder;
+    font-style: normal;
+}
 @font-face { /* Italic */
     font-family: 'Mallory Compact';
     src:
@@ -48,6 +56,14 @@
     font-weight: bold;
     font-style: normal;
 }
+@font-face { /* Bold */
+    font-family: 'Yale';
+    src:
+        url('https://rcheng11.github.io/dynamic-forms-styles/MalloryCompact-Medium.ttf') 
+        format('opentype');
+    font-weight: bolder;
+    font-style: normal;
+}
 @font-face { /* Italic */
     font-family: 'Mallory Compact';
     src:
@@ -66,7 +82,7 @@
 }
 
 /* Standard Styles -----------------------------------------------*/
-label, input, table, td, th{
+label, input, table, td, th, textarea{
   font-family: "Mallory Compact", sans-serif !important;
   font-size: 1rem !important;
 }
