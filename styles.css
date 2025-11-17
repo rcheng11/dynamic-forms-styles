@@ -77,6 +77,13 @@ label, input, table, td, th, textarea, .inputcontainer, button{
 input, text-area, label{
   padding: 0.35rem;
 }
+a{
+    color: #286dc0;
+    transition: 0.3s;
+}
+a:hover{
+    color: #00356b;
+}
 /* Special Text ----------------------------------------------- */
 .alert-text::before {
   content: "\1F6C8";
