@@ -88,8 +88,6 @@ a:hover{
 .alert-text::before {
   content: "ⓘ";
   margin-right: 5px;
-  font-weight: bold;
-  font-family: serif !important;
 }
 .alert-text{
     color: #286dc0;
