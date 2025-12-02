@@ -86,7 +86,7 @@ a:hover{
 }
 /* Special Text ----------------------------------------------- */
 .alert-text::before {
-  content: "\1F6C8";
+  content: "ⓘ";
   margin-right: 5px;
   font-weight: bold;
   font-family: serif !important;
