@@ -88,6 +88,8 @@ a:hover{
 .alert-text::before {
   content: "\1F6C8";
   margin-right: 5px;
+  font-weight: bold;
+  font-family: serif !important;
 }
 .alert-text{
     color: #286dc0;
